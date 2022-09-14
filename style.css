@@ -1,0 +1,40 @@
+body {
+
+    background-color:
+        rgb (230,
+            117,
+            170);
+
+    margin:
+        0px;
+
+    font-family:
+        'Nabla'
+    ;
+
+    text-align:
+        center;
+}
+
+form {
+
+    background-color:
+        rgba (159,
+            225,
+            154,
+            0.847);
+
+    margin:
+        100px;
+
+    padding:
+        30px;
+
+}
+
+h1,
+h5 {
+
+    margin:
+        8px;
+}
